@@ -1,2 +1,2 @@
-# Web_dev_projects
-My projects from a beginner level as I go through learning Full stack development.
+# Sigma_project
+My first major project which Ive learnt from Sigma
