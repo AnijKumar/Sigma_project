@@ -1,2 +1,2 @@
 # Sigma_project
-My first major project which Ive learnt from Sigma
+My first major project which I've learnt from Sigma
